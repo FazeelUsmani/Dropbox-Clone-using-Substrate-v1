@@ -4,6 +4,9 @@
 * Downloading: Provide file_id, costs apply based on >250MB file size
 * Transfer: Ownership of the files can be transferred to anyone else when signed by the owner
 
+
+Note: This doesn't include IPFS Storage which will be done in the subsequent repo
+
 ## Getting Started
 
 Follow the steps below to get started with the Node Template, or get it up and running right from
